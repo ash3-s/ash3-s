@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashwin</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi!%20I'm%20Ashwin&fontSize=70&animation=fadeIn)
+
 <p align="center">I’m a Full Stack Developer who loves building efficient, scalable systems. I enjoy working with both frontend and backend technologies, optimizing performance, and automating processes.</p>
 
 
