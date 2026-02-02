@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwin Suresh</h1>
+<h1 align="center">Hi 👋, I'm Ashwin</h1>
 <p align="center">I’m a Full Stack Developer who loves building efficient, scalable systems. I enjoy working with both frontend and backend technologies, optimizing performance, and automating processes.</p>
 
 
